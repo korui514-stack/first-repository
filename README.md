@@ -1,1 +1,3 @@
-# 初めてのGit Hub操作
+# はじめてのGit Hub練習
+
+- vscodeのGitとGitHubの連結大変だった💦
